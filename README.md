@@ -40,14 +40,15 @@ Inicie o bot com:
 
 python main.py
 
-📁 Estrutura do projeto
+## 📁 Estrutura do projeto
 
+```text
 bot-telegram-python/
-│
-├── main.py              # Arquivo principal do bot
-├── requirements.txt     # Dependências do projeto
-├── .gitignore           # Arquivos ignorados pelo Git
-└── README.md            # Documentação
+├── main.py            # Arquivo principal do bot
+├── requirements.txt   # Dependências do projeto
+├── .gitignore         # Arquivos ignorados pelo Git
+└── README.md          # Documentação
+```
 
 💡 Exemplo de uso
 
